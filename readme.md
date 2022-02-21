@@ -2,11 +2,13 @@
 
 分享你的二级域名!
 
+立项 nodejs实习计划
+
 一个自动化二级域名分发系统,基于`nodejs`
 
 调用`cloudflare api V4`
 
-[demo](https://kksk.best)
+[demo](https://domain.acfun.win)
 
 ## 食用
 
